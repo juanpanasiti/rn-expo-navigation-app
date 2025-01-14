@@ -4,7 +4,7 @@ import React from 'react';
 const App = () => {
     return (
         <SafeAreaView>
-            <View className='mt-6 mx-2.5'>
+            <View className='mt-6 mx-2.5 bg-secondary-200'>
                 <Text className='text-3xl' style={{ fontFamily: 'WorkSans-Black' }}>
                     Hola mundo
                 </Text>
