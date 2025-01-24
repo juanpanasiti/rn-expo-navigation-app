@@ -17,7 +17,19 @@ module.exports = {
                     700: '#9E0060',
                     800: '#7A0040',
                     900: '#560020',
-                }
+                },
+                tertiary: {
+                    DEFAULT: '#FFD700',
+                    100: '#FFF6D1',
+                    200: '#FFEDA3',
+                    300: '#FFE475',
+                    400: '#FFDB47',
+                    500: '#FFD700',
+                    600: '#CCB600',
+                    700: '#998500',
+                    800: '#665400',
+                    900: '#332A00',
+                },
             },
             fontFamily: {
                 'work-black': ['WorkSans-Black', 'sans-serif'],
